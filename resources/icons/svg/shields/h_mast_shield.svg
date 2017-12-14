@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="h_mast_shield.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2975">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1006"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="32"
+     inkscape:cx="8.6349307"
+     inkscape:cy="9.328997"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 290 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="580 : 290 : 1"
+       inkscape:persp3d-origin="290 : 193.33333 : 1"
+       id="perspective2441" />
+    <inkscape:perspective
+       id="perspective3452"
+       inkscape:persp3d-origin="30 : 20 : 1"
+       inkscape:vp_z="60 : 30 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 30 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <symbol
+       viewBox="244.5 110 489 219.9"
+       id="symbol-university">
+      <path
+         id="path4460"
+         d="m 79,43 57,119 c 0,0 21,-96 104,-96 83,0 124,106 124,106 L 407,39 489,22 0,17 79,43 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4462"
+         d="M 94,176 73,215"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:20" />
+      <path
+         id="path4464"
+         d="M 300,19 C 300,29.5 277.4,38 249.5,38 221.6,38 199,29.5 199,19 199,8.5 221.6,0 249.5,0 277.4,0 300,8.5 300,19 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4466"
+         d="M 112,216 96,178 64,88 C 64,88 55,80 60,53 65,26 76,29 76,29"
+         ill="none"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000;stroke-width:20" />
+    </symbol>
+    <inkscape:perspective
+       id="perspective4471"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4668"
+       inkscape:persp3d-origin="6 : 4 : 1"
+       inkscape:vp_z="12 : 6 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 6 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.816;fill:#ebe7e4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01682901;marker:none;enable-background:accumulate"
+     d="m 7.7983139,1.4477306 c -0.4995742,0 -0.9942538,0.4946797 -0.9942538,0.9942539 l 0,1.0980313 c 0,0.1024622 0.079021,0.195785 0.1171679,0.3029629 l -2.0286797,9.4688463 0.011717,-0.04185 c -0.048786,0.17782 -0.048786,0.367848 0,0.545668 0.00398,0.01576 0.00844,0.03139 0.013391,0.04687 0.076925,0.225263 0.2339855,0.421171 0.4368691,0.545668 0.019066,0.01143 0.038611,0.02204 0.058584,0.0318 0.115137,0.05775 0.2433291,0.08197 0.3715898,0.09374 0.2102099,0.02561 0.4276838,-0.0035 0.614295,-0.103778 0.050202,-0.02658 0.097349,-0.05858 0.1406018,-0.09541 0.00962,-0.0083 0.017469,-0.01815 0.026781,-0.02678 l 0.026781,-0.02678 0.055236,-0.05524 c 0.00863,-0.0093 0.0185,-0.01716 0.026781,-0.02678 0.00863,-0.0093 0.0185,-0.01716 0.026781,-0.02678 0.037514,-0.0437 0.070073,-0.09141 0.097082,-0.142276 0.054474,-0.102158 0.091083,-0.213658 0.1087988,-0.32807 l -0.00502,0.03347 0.050215,-0.251074 1.1331816,-0.850305 0.93567,0.72142 0.075323,0.359873 -0.00669,-0.04017 c 0.017716,0.114411 0.054324,0.225911 0.1087988,0.32807 0.00738,0.01418 0.015195,0.02814 0.023434,0.04185 0.1244969,0.202884 0.3204041,0.359944 0.5456681,0.436869 l 0.00506,0.0017 c 0.1985952,0.06649 0.4166576,0.05869 0.6176426,0 0.08132,-0.02047 0.163684,-0.03921 0.237683,-0.07867 0.05085,-0.02702 0.09856,-0.0596 0.142239,-0.09712 0.0096,-0.0083 0.01747,-0.01815 0.02678,-0.02678 l 0.08202,-0.08201 c 0.0086,-0.0093 0.0185,-0.01716 0.02678,-0.02678 0.04152,-0.04849 0.07694,-0.101893 0.105451,-0.159014 0.06167,-0.122943 0.09137,-0.259463 0.10043,-0.396698 0.0086,-0.08808 0.01405,-0.177089 0,-0.264464 -0.001,-0.0062 -0.0021,-0.01229 -0.0033,-0.01842 C 10.507072,10.160074 9.9116039,7.0751484 9.3148022,3.8982151 9.3705697,3.7778782 9.462099,3.6672934 9.462099,3.5400158 l 0,-1.0980313 C 9.4620991,1.9424103 8.9674194,1.4477306 8.4678452,1.4477306 Z"
+     id="path4045"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssccccccccccccccccccccccccccccccccccccccssss" />
+</svg>
